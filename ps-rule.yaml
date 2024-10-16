@@ -1,0 +1,9 @@
+
+
+input:
+  pathIgnore:
+    - '**'
+    - '!**/main.parameters.json'
+
+configuration:
+  AZURE_PARAMETER_FILE_EXPANSION: true
